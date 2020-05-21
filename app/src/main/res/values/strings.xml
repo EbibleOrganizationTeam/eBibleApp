@@ -1,0 +1,230 @@
+<resources>
+    <string name="app_name">Vivez Par la Foi</string>
+    <string name="titre">BONJOUR</string>
+    <string name="Desc">ça va super bien</string>
+    <string name="todo">TODO</string>
+    <string name="detail_detail">Detail</string>
+    <string name="tit">Vivez par la foi</string>
+    <string name="VIE">VIVEZ PAR LA FOI</string>
+    <string name="imj_descri">imj desc</string>
+    <string name="sub_detail">Subdetail</string>
+
+
+    <string-array name="Title">
+        <item>Making the lipsus</item>
+        <item>Stop breaking the rules</item>
+        <item>Create new stuff</item>
+        <item>Best thing Ever</item>
+        <item>Making the lipsus</item>
+        <item>Stop breaking the rules</item>
+        <item>Create new stuff</item>
+        <item>Best thing Ever</item>
+        <item>Making the lipsus</item>
+        <item>Stop breaking the rules</item>
+        <item>Create new stuff</item>
+        <item>Best thing Ever</item>
+        <item>Making the lipsus</item>
+        <item>Stop breaking the rules</item>
+        <item>Create new stuff</item>
+        <item>Best thing Ever</item>
+        <item>Making the lipsus</item>
+        <item>Stop breaking the rules</item>
+        <item>Create new stuff</item>
+        <item>Best thing Ever</item>
+    </string-array>
+
+    <!--    <string-array name="Subtitle">-->
+    <!--        <item>Making the </item>-->
+    <!--        <item>Stop breaking the rules</item>-->
+    <!--        <item>Create new stuff</item>-->
+    <!--        <item>Best thing Ever</item>-->
+    <!--        <item>Making the lipsus</item>-->
+    <!--        <item>Stop breaking the rules</item>-->
+    <!--        <item>Create new stuff</item>-->
+    <!--        <item>Best thing Ever</item>-->
+    <!--        <item>Making the lipsus</item>-->
+    <!--        <item>Stop breaking the rules</item>-->
+    <!--        <item>Create new stuff</item>-->
+    <!--        <item>Best thing Ever</item>-->
+    <!--        <item>Making the lipsus</item>-->
+    <!--        <item>Stop breaking the rules</item>-->
+    <!--        <item>Create new stuff</item>-->
+    <!--        <item>Best thing Ever</item>-->
+    <!--        <item>Making the lipsus</item>-->
+    <!--        <item>Stop breaking the rules</item>-->
+    <!--        <item>Create new stuff</item>-->
+    <!--        <item>Best thing Ever</item>-->
+    <!--    </string-array>-->
+
+    <string-array name="Detail">
+
+        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+
+        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+
+        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+
+        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+
+        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10. Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+
+In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+
+The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
+
+​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+
+
+
+    </string-array>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+
+</resources>
