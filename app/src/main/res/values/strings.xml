@@ -11,9 +11,9 @@
 
 
     <string-array name="Title">
-        <item>Making the lipsus</item>
-        <item>Stop breaking the rules</item>
-        <item>Create new stuff</item>
+        <item>La foi déplace les montagnes</item>
+        <item>La foi change notre compréhension des choses</item>
+        <item>Matthieu 10</item>
         <item>Best thing Ever</item>
         <item>Making the lipsus</item>
         <item>Stop breaking the rules</item>
@@ -33,38 +33,14 @@
         <item>Best thing Ever</item>
     </string-array>
 
-    <!--    <string-array name="Subtitle">-->
-    <!--        <item>Making the </item>-->
-    <!--        <item>Stop breaking the rules</item>-->
-    <!--        <item>Create new stuff</item>-->
-    <!--        <item>Best thing Ever</item>-->
-    <!--        <item>Making the lipsus</item>-->
-    <!--        <item>Stop breaking the rules</item>-->
-    <!--        <item>Create new stuff</item>-->
-    <!--        <item>Best thing Ever</item>-->
-    <!--        <item>Making the lipsus</item>-->
-    <!--        <item>Stop breaking the rules</item>-->
-    <!--        <item>Create new stuff</item>-->
-    <!--        <item>Best thing Ever</item>-->
-    <!--        <item>Making the lipsus</item>-->
-    <!--        <item>Stop breaking the rules</item>-->
-    <!--        <item>Create new stuff</item>-->
-    <!--        <item>Best thing Ever</item>-->
-    <!--        <item>Making the lipsus</item>-->
-    <!--        <item>Stop breaking the rules</item>-->
-    <!--        <item>Create new stuff</item>-->
-    <!--        <item>Best thing Ever</item>-->
-    <!--    </string-array>-->
 
     <string-array name="Detail">
 
-        <item>Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
-
-In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
-
-The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
-
-​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
+        <item>Marc 11 22:23\nJesus prit la parole, et leur dit: Ayez foi en Dieu.\n\nJe vous le dis en verite, si quelqu\'un dit à cette montagne, Ote-toi de là et jette-toi dans la mer,\net s\'il ne doute point en son cœur,\nmais croit que ce qu\'il dit arrive, il le verra s\'accomplir.
+            \n\nLa scène qui se trouve dans notre verset clé, s’est déroulée au moment où les disciples de Jésus et lui étaient en route pour se rendre à Jérusalem. Ils sortaient de Béthanie, un village situé à environ 3 kilomètres de Jérusalem.
+            \n\nJésus avait fait cette déclaration lorsque les disciples avaient aperçu que le figuier que Jésus avait maudit dans la journée précédente avait totalement séché (Marc 11 :21). « Montagne » dans la déclaration du Seigneur a un sens purement littéral. La montagne considérée comme la plus petite montagne du monde, le Mont  Wychepcroof en Australie, est d’une hauteur de 43 mètres au-dessus des pleines qui l\’entourent, la plus haute elle-même, l\’Everest, en Chine avec 8848 mètres. Si nous avons la foi et que nous disons au Mont  Wycheproof ou à  l\’Everest ôte toi de là et jette toi dans la mer, et si nous ne doutons point en notre cœur, mais croyons que ce que nous disons arrive, nous le verrons s\’accomplir.
+            \n\nMais, est-il nécessaire de faire cela ? Ne pouvons-nous pas appliquer ce verset dans d\’autres domaines de notre vie ? Une montagne est au sens figuré une grande difficulté, une lourde épreuve à surmonter. Le remède à toutes montagnes qui se dressent devant nous est la foi que nous plaçons en Dieu. La foi déplace voire fait tomber les plus hautes montagnes. Quelle est notre attitude face aux difficultés ? Demeurons-nous alarmés ? Ordonnons nous aux problèmes de disparaitre mais en doutant en notre cœurs ? Jésus parle à notre cœur, il nous dit de croire en lui, de croire en sa toute puissance. Car ce qui nous est impossible, lui est possible, il suffit de garder la foi. Peu importe la hauteur de la montagne, peu importe le nombre d\’année qu\’elle a dans notre vie, si nous tenons ferme dans la foi nous la verrons disparaitre au temps marqué par le Dieu souverain.
+</item>
         <item>Stop breaking the rules Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
 
 In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
@@ -72,13 +48,22 @@ In past decades we have witnessed unprecedented advances in all areas of the med
 The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
 
 ​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
-        <item>Create new stuff Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
+        <item>Matthieu 10\n\n1- Puis, ayant appelé ses douze disciples, il leur donna le pouvoir de chasser les esprits impurs, et de guérir toute maladie et toute infirmité.
+\n\n2- Voici les noms des douze apôtres. Le premier, Simon appelé Pierre, et André, son frère; Jacques, fils de Zébédée, et Jean, son frère;
+\n\n3- Philippe, et Barthélemy; Thomas, et Matthieu, le publicain; Jacques, fils d\'Alphée, et Thaddée;
+\n\n4- Simon le Cananite, et Judas l\'Iscariot, celui qui livra Jésus.
+\n\n5- Tels sont les douze que Jésus envoya, après leur avoir donné les instructions suivantes: N\'allez pas vers les païens, et n\'entrez pas dans les villes des Samaritains;
+\n\n6- allez plutôt vers les brebis perdues de la maison d\'Israël.
+\n\n7- Allez, prêchez, et dites: Le royaume des cieux est proche.
+\n\n8- Guérissez les malades, ressuscitez les morts, purifiez les lépreux, chassez les démons. Vous avez reçu gratuitement, donnez gratuitement.
+\n\n9- Ne prenez ni or, ni argent, ni monnaie, dans vos ceintures;
+\n\n10- ni sac pour le voyage, ni deux tuniques, ni souliers, ni bâton; car l\'ouvrier mérite sa nourriture.
+\n\n11- Dans quelque ville ou village que vous entriez, informez-vous s\'il s\'y trouve quelque homme digne de vous recevoir; et demeurez chez lui jusqu\'à ce que vous partiez.
+\n\n12- En entrant dans la maison, saluez-la;
+\n\n13- et, si la maison en est digne, que votre paix vienne sur elle; mais si elle n\'en est pas digne, que votre paix retourne à vous.
 
-In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
+</item>
 
-The current method of using wet gauze pads to relieve patients of this pain is primitive and requires constant support by staff or family, who, in addition, are not always immediately available to assist.\n\n
-
-​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
         <item>Best thing Ever Making the Lipsus solution an integral part of your facility’s post-surgery procedure is a continued step towards excelling in patient-centered care.\n\n​
 
 In past decades we have witnessed unprecedented advances in all areas of the medical field. However, for one specific area of patient well-being and quality of life after surgery under general anesthesia, time has stood still. Due to the prohibition to drink water after such surgeries, recovering patients suffer greatly from dry, cracked lips.\n\n​
@@ -210,7 +195,6 @@ The current method of using wet gauze pads to relieve patients of this pain is p
 ​Approximately 400 million surgeries under general anesthesia are performed around the world yearly. 59% of the patients of these surgeries will suffer from dry, cracked lips at a level 7 ranking (‘very intense’) on the pain scale from 0 to 10.</item>
 
 
-
     </string-array>
     <string name="title_activity_nav_drawer">NavDrawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -225,6 +209,9 @@ The current method of using wet gauze pads to relieve patients of this pain is p
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="Detail">Happy to see you wanna know about us, we work as developer \nwe are three behing this book application
+        \n\nWe are\nJeff\nDomond\nand Doine</string>
+    <string name="notrebut">- Mettre la parole de Die a la disposition de tous: nous editons et diffusons des ouvrages en francais et dans d\'autre langue etrangeres\n- Aider les lecteurs de la bible a mieux la comprendre: nous editons des commentaires et des calendriers journaliers.</string>
 
 
 </resources>

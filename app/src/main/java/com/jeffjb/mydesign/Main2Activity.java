@@ -2,21 +2,15 @@ package com.jeffjb.mydesign;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
-
-import java.util.Objects;
 
 
 public class Main2Activity extends AppCompatActivity {
@@ -79,13 +73,15 @@ public boolean onCreateOptionsMenu(Menu menu) {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.action_about:
+                Intent i = new Intent(this, About.class);
+                startActivity(i);
                 Toast.makeText(this, "you clicked about", Toast.LENGTH_SHORT).show();
                 return true;
-            case R.id.action_favorite:
-                Intent i = new Intent(this,FavoryList.class);
-                startActivity(i);
-                Toast.makeText(Main2Activity.this, "you clicked favorite", Toast.LENGTH_LONG).show();
-                return true;
+//            case R.id.action_favorite:
+//                Intent intent = new Intent(Main2Activity.this, Contact.class);
+//                startActivity(intent);
+//
+//                return true;
             default:
         }
         return super.onOptionsItemSelected(item);

@@ -12,12 +12,12 @@
         app:showAsAction="ifRoom"
         app:actionViewClass="android.widget.SearchView"/>
 
-    <item
-        android:id="@+id/action_favorite"
-        android:orderInCategory="300"
-        android:title="Favorite"
-        android:icon="@drawable/ic_favorite"
-       />
+<!--    <item-->
+<!--        android:id="@+id/action_favorite"-->
+<!--        android:orderInCategory="300"-->
+<!--        android:title="Favorite"-->
+<!--        android:icon="@drawable/ic_favorite"-->
+<!--       />-->
 
     <item
         android:id="@+id/action_about"
