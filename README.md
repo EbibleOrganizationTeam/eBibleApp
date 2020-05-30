@@ -1,6 +1,6 @@
 # eBibleApp
 
-# Vivez Par La Foi is an app that allows users to read parts of the Bilble talking about faith [The Repository is on](https://github.com/EbookOrganizationTeam).
+# Vivez Par La Foi is an app that allows users to read parts of the Bilble talking about faith. The Repository is on: [(https://github.com/EbookOrganizationTeam/eBibleApp)]
 
 ---
 
