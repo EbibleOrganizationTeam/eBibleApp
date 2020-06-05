@@ -24,7 +24,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/EbibleOrganizationTeam/eBibleApp/blob/master/walktrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -32,5 +32,6 @@ Describe any challenges encountered while building the app.
 ### Open-source libraries used
 
   Copyright [2020] Domond Josue & Jeff Jean Baptiste]
+  
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Androids
