@@ -20,10 +20,9 @@
 - [x]  User can go back to the main activity.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, https://github.com/EbibleOrganizationTeam/eBibleApp/blob/master/walktrough.gif. Make sure the gif actually renders and animates when viewing this README.
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README.
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
-
+https://github.com/EbibleOrganizationTeam/eBibleApp/blob/master/walktrough.gif
 ### Notes
 Describe any challenges encountered while building the app.
 
