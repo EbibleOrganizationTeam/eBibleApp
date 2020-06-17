@@ -6,18 +6,20 @@
 
 ## Vivez Par la Foi
 
-### User Stories
+### User Can
 
-- [x] User can view a list of verse (title,content).
+- [x]  View a list of verse (title,content).
 - [x]  The Views are responsive for both landscape/portrait mode.
-- [x]  User can scroll to view the hidden part of the activity.
-- [x]  User can filter their search in the search icon. 
-- [x]  User can get more option by clicking the Ellipsis (three dots) icon on the top right.
-- [x]  User can click on any title to open a new activity.
-- [x]  User can select and copy text from the plain text view.
-- [x]  User can access the About activity's content.
-- [x]  User can switch screen and text color Black/white with the toggle icon on the bottom right
-- [x]  User can go back to the main activity.
+- [x]  Scroll to view the hidden part of the activity.
+- [x]  Filter their search in the search icon. 
+- [x]  Get more option by clicking the Ellipsis (three dots) icon on the top right.
+- [x]  Click on any title to open a new activity.
+- [ ]  Share text to other platform or app.
+- [ ]  Login to google account through the app by using Oauth third Part.
+- [x]  Select and copy text from the plain text view.
+- [x]  Access the About activity's content.
+- [x]  Switch screen and text color Black/white with the toggle icon on the bottom right
+- [x]  Go back to the main activity.
 
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README.
