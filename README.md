@@ -15,7 +15,8 @@
 - [x]  Get more option by clicking the Ellipsis (three dots) icon on the top right.
 - [x]  Click on any title to open a new activity.
 - [ ]  Share text to other platform or app.
-- [ ]  Login to google account through the app by using Oauth third Part.
+- [ ]  Add text their favorites.
+- [ ]  Play the audio version of the app.
 - [x]  Select and copy text from the plain text view.
 - [x]  Access the About activity's content.
 - [x]  Switch screen and text color Black/white with the toggle icon on the bottom right
